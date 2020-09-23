@@ -51,3 +51,14 @@
 		right: 20px;
 	}
 }
+
+.edit-submit {
+	width: 25px;
+	height: 25px;
+	background: $color-bold;
+	flex-shrink: 0;
+	background-image: url("data:image/svg+xml,%3Csvg id='Capa_1' enable-background='new 0 0 374.706 374.706' height='512' viewBox='0 0 374.706 374.706' width='512' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill='%23DAF0EA' d='m321.176 53.529h-107.058v53.529h107.059v80.294l-214.111-.007 40.141-40.141-40.147-40.147-107.06 107.061 107.059 107.059 40.147-40.147-40.153-40.153 214.124-.02c29.522 0 53.529-24.007 53.529-53.529v-80.268c0-29.523-24.007-53.53-53.53-53.531z'/%3E%3C/svg%3E");
+	background-size: 50%;
+	background-position: center center;
+	background-repeat: no-repeat;
+}
